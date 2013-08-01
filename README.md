@@ -25,7 +25,7 @@ and can have licensing restrictions.
 
 * [For non-coders](documentation/faq.md#what-if-im-not-a-coder-at-all)
 * [Why should I make plugins?](documentation/faq.md#why-should-i-make-plugins)
-* [DuckDuckHack Vision](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/advanced.md)
+* [DuckDuckHack Vision](documentation/duckduckhack_vision.md)
 * [Getting Started](documentation/getting_started.md)
   * [Determining Plugin Type](documentation/getting_started.md#determining-plugin-type)
   * [Guidelines](documentation/getting_started.md#guidelines)
