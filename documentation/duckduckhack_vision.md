@@ -19,7 +19,7 @@ In order to make sure these instant answers are worthy of being displayed, there
     ![minimize space](https://s3.amazonaws.com/ddg-assets/docs/minimize_space.png)
 
 4. **Consistent Design**.  
-    In order to display instant answers, we have four different plugin types: **Goodie**, **Spice**, **Fathead** and **Longtail**. Although each plugin type serves a different purpose, the instant answers they provide should look and feel similar. When in doubt, copy what already exists or ask us! We already have [a](https://duckduckgo.com/?q=garlic+steak+recipe) [few](https://duckduckgo.com/?q=flight+tracking+apps) [cool](https://duckduckgo.com/?q=movies) [designs](http://ddg.gg/?q=flight+search+app).
+    In order to display instant answers, we have four different plugin types: **Goodie**, **Spice**, **Fathead** and **Longtail**. Although each plugin type serves a different purpose, the instant answers they provide should look and feel similar. When in doubt, copy what already exists or ask us! We already have [a](https://duckduckgo.com/?q=garlic+steak+recipe) [few](https://duckduckgo.com/?q=flight+tracking+apps) [cool](https://duckduckgo.com/?q=movies) [designs](https://duckduckgo.com/?q=khan+calculus).
 
 <!-- 
 * **Readable Answers**.  If textual, create sentences or short statements that users can actually read. 
