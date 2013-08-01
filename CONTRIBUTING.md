@@ -25,11 +25,11 @@ If submitting a **pull request** (bugfix/addition):
     Request.pm - added check to not seperate words on apostrophe
     ```
 
-* Make sure you have added the necessary tests for your changes.
-* Run `dzil test` (executes all tests in t/) to assure nothing else was accidentally broken
+* Make sure you have added the necessary tests for your changes
+* Run `dzil test` (executes all tests in t/) to ensure nothing else was accidentally broken
 
 ## Submitting Changes
 
-* Push your changes to your fork of the repository.
-* Submit a pull request to the DuckDuckGo (Core) repository.
+* Push your changes to your fork of the repository
+* Submit a pull request to the DuckDuckGo (Core) repository
     * Make sure to use the DuckDuckGo (Core) repository's Pull Request template
