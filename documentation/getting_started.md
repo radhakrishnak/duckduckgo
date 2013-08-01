@@ -13,16 +13,16 @@ Using this flowchart should help you to determine which kind of plugin you'll be
 
 ![plugin type flow chart](/plugin_flowchart.png)
 
-If the right type is still not obvious, please <a href="https://github.com/duckduckgo/duckduckgo#can-you-help-me">ask us</a>. Sometimes multiple plugin types could work (depending on the datasource), and we can help you figure out which one would work best.
+If the right plugin type is still not obvious, please <a href="https://github.com/duckduckgo/duckduckgo#can-you-help-me">ask us</a>. Sometimes multiple plugin types could work (depending on the datasource), and we can help you figure out which one would work best.
 
 ## 3. Fork the Plugin Repository
 
 Now that you know which plugin type you'll be using for your instant answer, you'll have to fork the associated DuckDuckHack Plugin repository ([GitHub instructions](http://help.github.com/fork-a-repo/)) so you can start coding:
 
-* Click [here](https://github.com/duckduckgo/zeroclickinfo-goodies/fork) to fork the Goodie Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-goodies)
-* Click [here](https://github.com/duckduckgo/zeroclickinfo-spice/fork) to fork the Spice Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-spice)
-* Click [here](https://github.com/duckduckgo/zeroclickinfo-fathead/fork) to fork the Fathead Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-fathead)
-* Click [here](https://github.com/duckduckgo/zeroclickinfo-longtail/fork) to fork the Longtail Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-longtail)
+* Click [here](https://github.com/duckduckgo/zeroclickinfo-goodies/fork) to fork the **Goodie** Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-goodies)
+* Click [here](https://github.com/duckduckgo/zeroclickinfo-spice/fork) to fork the **Spice** Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-spice)
+* Click [here](https://github.com/duckduckgo/zeroclickinfo-fathead/fork) to fork the **Fathead** Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-fathead)
+* Click [here](https://github.com/duckduckgo/zeroclickinfo-longtail/fork) to fork the **Longtail** Plugin Repository (https://github.com/duckduckgo/zeroclickinfo-longtail)
 
 ## 4. Start Coding!
 
