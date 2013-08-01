@@ -1,4 +1,7 @@
-#DuckDuckHack Vision
+# DuckDuckHack Vision
+[Index](https://github.com/duckduckgo/duckduckgo#index) / **DuckDuckHack Vision**
+
+---
 
 ###The goal of DuckDuckHack is to provide users with relevant and useful instant answers.
 
