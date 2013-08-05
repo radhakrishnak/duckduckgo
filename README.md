@@ -1,9 +1,8 @@
-DuckDuckHack Developer Overview
-===
-## What is this?
+# Welcome to DuckDuckHack!
 
-[DuckDuckGo](https://duckduckgo.com/) is a general purpose search engine. We've created a platform called [DuckDuckHack](http://duckduckhack.com/) that enables developers to write open source plugins on top of the search engine (like [add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?src=ss)). DuckDuckGo plugins react to search queries and provide [useful](https://duckduckgo.com/?q=%40duckduckgo) [instant](https://duckduckgo.com/?q=roman+xvi) [answers](https://duckduckgo.com/?q=private+ips) above traditional links.
+[DuckDuckHack](http://duckduckhack.com/) is the open source platform we've built that enables developers to create their own useful [instant](https://duckduckgo.com/?q=roman+xvi) [answers](https://duckduckgo.com/?q=private+ips) which are displayed at the top of the page, above the traditional links on DuckDuckGo.com
 
+This is what an instant answer looks like:
 ![instant answer example](https://s3.amazonaws.com/ddg-assets/docs/example.png)
 
 If you want to get involved in making DuckDuckGo a better search engine, you've come to the right place! 
