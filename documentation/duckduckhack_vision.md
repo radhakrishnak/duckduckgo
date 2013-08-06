@@ -5,16 +5,16 @@
 
 ###The goal of DuckDuckHack is to provide users with relevant and useful instant answers.
 
-In order to make sure these instant answers are worthy of being displayed, there are a few conditions that each and every plugin must meet:
+In order to make sure these instant answers are worthy of being displayed, there are a few conditions that each and every instant answer must meet:
 
 1. **Better Than Links**.  
     Since instant answers are above the traditional links, they should be unambiguously better than them. For example, the [Yummly integration](https://ddg.gg/?q=garlic+steak+recipe) shows recipes that are better than the links below.
     ![better than links](https://s3.amazonaws.com/ddg-assets/docs/better_than_links.png)
 
 2. **No False Positives**.  
-    A false positive is an irrelevant instant answer. Only return an instant answer when you know it is good, and otherwise return nothing. For example, the [Quixey plugin](http://ddg.gg/?q=flight+search+app) shouldn't show an answer for a query like ["how to build a simple ipad app"](https://duckduckgo.com/?q=how+to+build+a+simple+ipad+app).
+    A false positive is an irrelevant instant answer. Only return an instant answer when you know it is good, and otherwise return nothing. For example, the [Quixey instant answer](http://ddg.gg/?q=flight+search+app) shouldn't show an answer for a query like ["how to build a simple ipad app"](https://duckduckgo.com/?q=how+to+build+a+simple+ipad+app).
 
-3. **Minimize Vertical Space**.  
+3. **Minimal Vertical Space**.  
      Only include the most important information and then offer the user to click through for more if needed.  
     ![minimize space](https://s3.amazonaws.com/ddg-assets/docs/minimize_space.png)
 
