@@ -35,7 +35,7 @@ To get started with creating an instant answer, please read the [DuckDuckHack Vi
 - [For non-coders](documentation/faq.md#what-if-im-not-a-coder-at-all)
 - [Why should I make plugins?](documentation/faq.md#why-should-i-make-plugins)
 - [DuckDuckHack Vision](documentation/duckduckhack_vision.md)
-- [Instant Answer Design Style Guide](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/Plugin-Specific-Design-Style-Guide/)
+- [Instant Answer Design Style Guide](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/design_styleguide.md)
   - [Goodie Style Guide](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/Plugin-Specific-Design-Style-Guide/goodie_styleguide.md)
   - [Spice Style Guide](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/Plugin-Specific-Design-Style-Guide/spice_styleguide.md)
   - [Fathead Style Guide](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/Plugin-Specific-Design-Style-Guide/fathead_styleguide.md)
