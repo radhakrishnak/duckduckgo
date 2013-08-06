@@ -1,49 +1,59 @@
 # Welcome to DuckDuckHack!
 
-[DuckDuckHack](http://duckduckhack.com/) is the open source platform we've built that enables developers to create their own useful [instant](https://duckduckgo.com/?q=roman+xvi) [answers](https://duckduckgo.com/?q=private+ips) which are displayed at the top of the page, above the traditional links on DuckDuckGo.com
+[DuckDuckHack](http://duckduckhack.com/) is an open source platform built by [DuckDuckGo](https://duckduckgo.com) and its community members to provide a better DuckDuckGo search experience with, "instant answers."
 
-This is what an instant answer looks like:
+Instant answers provide highly useful information (like the [solution to an equation](https://duckduckgo.com/?q=multiples+of+42) or a snippet of [biographical information](https://duckduckgo.com/?q=neil+degrasse+tyson)) to searches performed on DuckDuckGo. For some of our favorite examples, check out: 
+
+- [Twitter information](https://duckduckgo.com/?q=%40duckduckgo)
+- [Live flight status](https://duckduckgo.com/?q=aa+102)
+- [Recipes by ingredient](https://duckduckgo.com/?q=tofu+ginger)
+
+Instant answers are displayed at the top of the page, above the traditional organic links and our sponsored link, so users can quickly locate the information being provided.
+
+This is an exmaple of an instant answer:
 ![instant answer example](https://s3.amazonaws.com/ddg-assets/docs/example.png)
 
 If you want to get involved in making DuckDuckGo a better search engine, you've come to the right place! 
 
-* If **you are a developer**, this guide serves as a master jumping-off point for the DuckDuckHack platform.
-* If **you are not a developer, but would like to become one** to help with DuckDuckHack, we recommend the [JavaScript course at Codecademy](http://www.codecademy.com/tracks/javascript). That will help you to get started with the Spice plugin type (explained below).
-* If **you have no intention of becoming a developer**, there is still a lot you can do at our [ideas companion site](http://ideas.duckduckhack.com/) where you can suggest and comment on plugin ideas such as identifying the best sites and data sources to draw from. Similarly, you can submit [issues about current plugins](https://github.com/duckduckgo/duckduckgo/issues?direction=desc&sort=created&state=open). Both of these activities are very valuable and will help direct community efforts.
+- If **you are a developer**, please continue reading below to get started with creating your own instant answer! If you here to submit a bug, please make an issue in the correct repository or if you're unsure about which repository is appropriate, please refer to our [Feedback Page](#) (Coming Soon!)
 
-The DuckDuckHack platform is constantly changing as community contributors add new features. As a result, some plugin types have better interfaces than others. We will be improving the platform based on [your feedback](https://www.listbox.com/subscribe/?list_id=197814).
-Our long-term goal is to be able to distribute all DuckDuckHack (and internal) instant answers via the [DuckDuckGo Instant Answers API](https://api.duckduckgo.com). 
-Currently [fathead](https://github.com/duckduckgo/zeroclickinfo-fathead) and [goodie](#goodies-overview) plugin types 
-automatically flow through. We are working on exposing the other plugin types, which are more complicated to distribute
-and can have licensing restrictions.
+- If **you are *not* a developer, but would like to become one** to help with DuckDuckHack, we recommend you start by trying out the [JavaScript course at Codecademy](http://www.codecademy.com/tracks/javascript). Also, you should probably checkout our [Perl Overview](https://github.com/duckduckgo/duckduckgo/wiki/OverviewPerl) to learn about Perl and how we use it at DuckDuckGo.
+
+- If **you are not developer**, there is still a lot you can do at our [community website](https://duck.co) and our [ideas companion site](http://ideas.duckduckhack.com/) where you can suggest and comment on instant answer ideas, such as identifying the best websites and data sources to draw from. Contributions of this sort are still very valuable to us and will help direct community efforts.
+
+The DuckDuckHack platform is constantly changing as community contributors add new features. We will be improving the platform based on [your feedback](https://www.listbox.com/subscribe/?list_id=197814). Our long-term goal is to be able to distribute all DuckDuckHack (and internal) instant answers via the [DuckDuckGo Instant Answers API](https://api.duckduckgo.com).
 
 * To learn about new plugins, follow [@duckduckhack](https://twitter.com/duckduckhack)
 * For ongoing discussion, join the [DuckDuckHack list](https://www.listbox.com/subscribe/?list_id=197814)
 
-## Index
+## Next Steps
 
-* [For non-coders](documentation/faq.md#what-if-im-not-a-coder-at-all)
-* [Why should I make plugins?](documentation/faq.md#why-should-i-make-plugins)
-* [DuckDuckHack Vision](documentation/duckduckhack_vision.md)
-* [Getting Started](documentation/getting_started.md)
-  * [Determining Plugin Type](documentation/getting_started.md#determining-plugin-type)
-  * [Guidelines](documentation/getting_started.md#guidelines)
-* [Goodies Walkthrough](documentation/goodies_overview.md)
-* [Spice Walkthrough](documentation/spice_overview.md)
-* [Fathead Overview](https://github.com/duckduckgo/zeroclickinfo-fathead)
-* [Longtail Overview](https://github.com/duckduckgo/zeroclickinfo-longtail)
-* [General](documentation/general.md)
-  * [Basic Tutorial](documentation/general.md#basic-tutorial)
-  * [Triggers](documentation/general.md#triggers)
-  * [Submitting Plugins](documentation/general.md#submitting-plugins)
-* [Testing](documentation/testing.md)
-  * [Testing Triggers](documentation/testing.md#testing-triggers)
-      * [Installing DuckPAN](documentation/testing.md#testing-triggers)
-  * [Plugin Test Files](documentation/testing.md#plugin-test-files)
-  * [Testing Spice HTML](documentation/testing.md#testing-spice-html)
-* [Spice](documentation/spice.md)
-  * [Spice Handle Functions (spice backend)](documentation/spice.md#spice-handle-functions)
-  * [Frontend Spice development](documentation/spice2.md)
-  * [Advanced Spice Backend](https://github.com/duckduckgo/zeroclickinfo-spice#advanced-spice)
-* [Location API](documentation/location_api.md)
-* [FAQ](documentation/faq.md)
+To get started with creating an instant answer, please read the [DuckDuckHack Vision](documentation/duckduckhack_vision.md). This will explain in more detail what the goal and purpose of DuckDuckHack is, as well as explain how to make an excellent instant answer.
+
+## DuckDuckHack Documentation Index
+
+- [For non-coders](documentation/faq.md#what-if-im-not-a-coder-at-all)
+- [Why should I make plugins?](documentation/faq.md#why-should-i-make-plugins)
+- [DuckDuckHack Vision](documentation/duckduckhack_vision.md)
+- [Getting Started](documentation/getting_started.md)
+  - [Determining Plugin Type](documentation/getting_started.md#determining-plugin-type)
+  - [Guidelines](documentation/getting_started.md#guidelines)
+- [Goodies Walkthrough](documentation/goodies_overview.md)
+- [Spice Walkthrough](documentation/spice_overview.md)
+- [Fathead Overview](https://github.com/duckduckgo/zeroclickinfo-fathead)
+- [Longtail Overview](https://github.com/duckduckgo/zeroclickinfo-longtail)
+- [General](documentation/general.md)
+  - [Basic Tutorial](documentation/general.md#basic-tutorial)
+  - [Triggers](documentation/general.md#triggers)
+  - [Submitting Plugins](documentation/general.md#submitting-plugins)
+- [Testing](documentation/testing.md)
+  - [Testing Triggers](documentation/testing.md#testing-triggers)
+      - [Installing DuckPAN](documentation/testing.md#testing-triggers)
+  - [Plugin Test Files](documentation/testing.md#plugin-test-files)
+  - [Testing Spice HTML](documentation/testing.md#testing-spice-html)
+- [Spice](documentation/spice.md)
+  - [Spice Handle Functions (spice backend)](documentation/spice.md#spice-handle-functions)
+  - [Frontend Spice development](documentation/spice2.md)
+  - [Advanced Spice Backend](https://github.com/duckduckgo/zeroclickinfo-spice#advanced-spice)
+- [Location API](documentation/location_api.md)
+- [FAQ](documentation/faq.md)

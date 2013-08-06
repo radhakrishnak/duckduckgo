@@ -28,4 +28,11 @@ In order to make sure these instant answers are worthy of being displayed, there
 
 These three general points encompass the basic idea behind our instant answers, but in order to thoroughly describe how plugins should be designed, we've also written comprehensive [**DuckDuckHack Plugin Design Guidelines**](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/design_styleguide.md).
 
+Here are some great instant answer examples:
+- (TBD)
+- (TBD)
+- (TBD)
+
+These examples ...
+
 At this point, you're ready to move. Head over to [Getting Started](/documentation/getting_started.md) to begin developing a plugin!
