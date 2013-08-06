@@ -26,7 +26,7 @@ In order to make sure these instant answers are worthy of being displayed, there
 ![readable answer](https://s3.amazonaws.com/ddg-assets/docs/readable.png)
 -->
 
-These three general points encompass the basic idea behind our instant answers, but in order to thoroughly describe how plugins should be designed, we've also written comprehensive [**DuckDuckHack Plugin Design Guidelines**](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/design_styleguide.md).
+These three general points encompass the basic idea behind our instant answers, but in order to thoroughly describe how plugins should be designed, we've also written comprehensive [**DuckDuckHack Instant Answer Design Guidelines**](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/design_styleguide.md).
 
 Here are some great instant answer examples:
 - (TBD)
