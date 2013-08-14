@@ -42,7 +42,6 @@ To get started with creating an instant answer, please read the [DuckDuckHack Vi
   - [Longtail Style Guide](https://github.com/duckduckgo/DuckDuckGo-Documentation/blob/master/DuckDuckHack/Styleguide/Plugin-Specific-Design-Style-Guide/longtail_styleguide.md)
 - [Getting Started](documentation/getting_started.md)
   - [Determining Instant Answer Plugin Type](documentation/getting_started.md#determining-plugin-type)
-  - [Guidelines](documentation/getting_started.md#guidelines)
 - [Goodies Walkthrough](documentation/goodies_overview.md)
 - [Spice Walkthrough](documentation/spice_overview.md)
 - [Fathead Overview](https://github.com/duckduckgo/zeroclickinfo-fathead)
