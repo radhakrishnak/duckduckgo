@@ -49,7 +49,6 @@ To get started with creating an instant answer, please read the [DuckDuckHack Vi
 - [General](documentation/general.md)
   - [Basic Tutorial](documentation/general.md#basic-tutorial)
   - [Triggers](documentation/general.md#triggers)
-  - [Submitting Plugins](documentation/general.md#submitting-plugins)
 - [Testing](documentation/testing.md)
   - [Testing Triggers](documentation/testing.md#testing-triggers)
       - [Installing DuckPAN](documentation/testing.md#testing-triggers)
