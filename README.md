@@ -16,7 +16,7 @@ This is an exmaple of an instant answer:
 ## Getting Involved
 Whether you can code or not, there are many ways you can contribute to DuckDuckGo to make a better search experience for everyone:
 
-### For Non-coders
+#### Non-coders can...
 - Suggest ideas for instant answers
   Every search can be answered with one perfect result or, "instant answer." Most of our instant answers were suggested by community members, like you, who thought that things like a [password generator](https://duckduckgo.com/?q=password+15) and [currency conversions](https://duckduckgo.com/?q=5+USD+in+GBP) should be answered instantly. We'd love to hear your ideas and you can even help developers around the world bring your instant answer ideas to life.
 
@@ -26,7 +26,7 @@ Whether you can code or not, there are many ways you can contribute to DuckDuckG
 - Discuss instant answers with others
   Our community thrives on discussion (and debate). We'd love for you to lend your voice to our community so that we can improve DuckDuckGo according to everyone's interests. 
 
-### For Coders
+#### Coders can...
 - Develop instant answers
   - Continue reading below for our developers guide to creating an instant answer
 
