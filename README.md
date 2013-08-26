@@ -17,26 +17,27 @@ This is an exmaple of an instant answer:
 Whether you can code or not, there are many ways you can contribute to DuckDuckGo to make a better search experience for everyone:
 
 #### Non-coders can...
-- Suggest ideas for instant answers
+- **Suggest ideas for instant answers**  
   Every search can be answered with one perfect result or, "instant answer." Most of our instant answers were suggested by community members, like you, who thought that things like a [password generator](https://duckduckgo.com/?q=password+15) and [currency conversions](https://duckduckgo.com/?q=5+USD+in+GBP) should be answered instantly. We'd love to hear your ideas and you can even help developers around the world bring your instant answer ideas to life.
 
-- Propose source suggestions for current ideas
+- **Propose source suggestions for current ideas**  
   Instant answers need source suggestions. For example, our community believes that Rotten Tomatoes is a good source for [movie ratings](https://duckduckgo.com/?q=despicable+me+2+rating). If you know of the best source for a particular interest, please suggest it! 
 
-- Discuss instant answers with others
+- **Discuss instant answers with others**  
   Our community thrives on discussion (and debate). We'd love for you to lend your voice to our community so that we can improve DuckDuckGo according to everyone's interests. 
 
 #### Coders can...
-- Develop instant answers
-  - Continue reading below for our developers guide to creating an instant answer
+- **Develop instant answers**  
+  Continue reading below for our developers guide to creating an instant answer
 
-- Improve current instant answers
-  - Help fix current issues or discuss with the community how to make our instant answers better. 
+- **Improve current instant answers**  
+  Help fix current issues or discuss with the community how to make our instant answers better. 
 
 <!-- - If **you are a developer**, please continue reading below to get started with creating your own instant answer! If you here to submit a bug, please make an issue in the correct repository or if you're unsure about which repository is appropriate, please refer to our [Feedback Page](#) (Coming Soon!)
 
 - If **you are not developer**, there is still a lot you can do at our [community website](https://duck.co) and our [ideas companion site](http://ideas.duckduckhack.com/) where you can suggest and comment on instant answer ideas, such as identifying the best websites and data sources to draw from. Contributions of this sort are still very valuable to us and will help direct community efforts. -->
 
+****Note:**
 The DuckDuckHack platform is constantly changing as community contributors add new features. We will be improving the platform based on [your feedback](https://www.listbox.com/subscribe/?list_id=197814). Our long-term goal is to be able to distribute all DuckDuckHack (and internal) instant answers via the [DuckDuckGo Instant Answers API](https://api.duckduckgo.com).
 
 * To learn about new plugins, follow [@duckduckhack](https://twitter.com/duckduckhack)
