@@ -45,7 +45,8 @@ The DuckDuckHack platform is constantly changing as community contributors add n
 
 ## Next Steps
 
-To get started with creating an instant answer, please read the [DuckDuckHack Vision](documentation/duckduckhack_vision.md). This will explain in more detail what the goal and purpose of DuckDuckHack is, as well as explain how to make an excellent instant answer.
+ - To start developing an instant answer, please read the **[DuckDuckHack Vision](documentation/duckduckhack_vision.md)**
+ - To get submit/discuss ideas and get involved with the community please visit our **[community website](https://duck.co)** and our **[ideas companion site](http://ideas.duckduckhack.com/)**
 
 ## DuckDuckHack Documentation Index
 
