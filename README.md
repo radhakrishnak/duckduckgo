@@ -11,7 +11,7 @@ Instant answers provide highly useful information (like the [solution to an equa
 Instant answers are displayed at the top of the page, above the traditional organic links and our sponsored link, so users can quickly locate the information being provided.
 
 This is an exmaple of an instant answer:
-![instant answer example](https://s3.amazonaws.com/ddg-assets/docs/example.png)
+![instant answer example](https://raw.github.com/duckduckgo/DuckDuckGo-Documentation/master/DuckDuckHack/Assets/in_theaters_example.png)
 
 If you want to get involved in making DuckDuckGo a better search engine, you've come to the right place! 
 
