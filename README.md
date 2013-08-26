@@ -37,7 +37,7 @@ Whether you can code or not, there are many ways you can contribute to DuckDuckG
 
 - If **you are not developer**, there is still a lot you can do at our [community website](https://duck.co) and our [ideas companion site](http://ideas.duckduckhack.com/) where you can suggest and comment on instant answer ideas, such as identifying the best websites and data sources to draw from. Contributions of this sort are still very valuable to us and will help direct community efforts. -->
 
-****Note:**
+**\*\*Note:**
 The DuckDuckHack platform is constantly changing as community contributors add new features. We will be improving the platform based on [your feedback](https://www.listbox.com/subscribe/?list_id=197814). Our long-term goal is to be able to distribute all DuckDuckHack (and internal) instant answers via the [DuckDuckGo Instant Answers API](https://api.duckduckgo.com).
 
 * To learn about new plugins, follow [@duckduckhack](https://twitter.com/duckduckhack)
