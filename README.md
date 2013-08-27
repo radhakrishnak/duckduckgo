@@ -1,6 +1,4 @@
-# DuckDuckHack
-## Give back to DuckDuckGo, and help create a better search experience for everyone!
-## We love our users, and now you can give back, with DuckDuckHack!
+# DuckDuckHack - Give back to DuckDuckGo, and help create a better search experience for everyone!
 
 At DuckDuckGo, our users believe in more answers with fewer clicks. Why show a page full of links, when you can show an instant answer!
 
