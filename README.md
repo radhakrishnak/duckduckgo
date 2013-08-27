@@ -1,37 +1,33 @@
-# Welcome to DuckDuckHack!
+# DuckDuckHack
+## Give back to DuckDuckGo, and help create a better search experience for everyone!
+## We love our users, and now you can give back, with DuckDuckHack!
 
-[DuckDuckHack](http://duckduckhack.com/) is an open source platform built by [DuckDuckGo](https://duckduckgo.com) and its community members to provide a better DuckDuckGo search experience with, "instant answers."
+At DuckDuckGo, our users believe in more answers with fewer clicks. Why show a page full of links, when you can show an instant answer!
 
-Instant answers provide highly useful information (like the [solution to an equation](https://duckduckgo.com/?q=multiples+of+42) or a snippet of [biographical information](https://duckduckgo.com/?q=neil+degrasse+tyson)) to searches performed on DuckDuckGo. For some of our favorite examples, check out: 
+DuckDuckHack is our way of letting users take control of their search experience by creating useful "instant answers" so searches like, ["what is the height of the eiffel tower"](https://duckduckgo.com/?q=what+is+the+height+of+the+eiffel+tower) will show you that it's exactly 1063 feet tall, or searches like, ["currently in theaters"](https://duckduckgo.com/?q=currently+in+theaters) will show you what's actually playing in nearby movie theaters.
 
-- [Twitter information](https://duckduckgo.com/?q=%40duckduckgo)
-- [Live flight status](https://duckduckgo.com/?q=aa+102)
-- [Recipes by ingredient](https://duckduckgo.com/?q=tofu+ginger)
+Anyone in the world can suggest or develop an, "instant answer." They're shown at the top of our results page and often provide the answer you're looking for, without even having to click!
 
-Instant answers are displayed at the top of the page, above the traditional organic links and our sponsored link, so users can quickly locate the information being provided.
-
-This is an exmaple of an instant answer:
+This is what an instant answer looks like:
 ![instant answer example](https://raw.github.com/duckduckgo/DuckDuckGo-Documentation/master/DuckDuckHack/Assets/in_theaters_example.png)
 
 ## Getting Involved
-Whether you can code or not, there are many ways you can contribute to DuckDuckGo to make a better search experience for everyone:
+Whether you can code or not, there are many ways you can contribute to DuckDuckGo:
 
-#### Non-coders can...
+#### Join our Community (of awesome people)
 - **Suggest ideas for instant answers**  
-  Every search can be answered with one perfect result or, "instant answer." Most of our instant answers were suggested by community members, like you, who thought that things like a [password generator](https://duckduckgo.com/?q=password+15) and [currency conversions](https://duckduckgo.com/?q=5+USD+in+GBP) should be answered instantly. We'd love to hear your ideas and you can even help developers around the world bring your instant answer ideas to life.
-
-- **Propose source suggestions for current ideas**  
-  Instant answers need source suggestions. For example, our community believes that Rotten Tomatoes is a good source for [movie ratings](https://duckduckgo.com/?q=despicable+me+2+rating). If you know of the best source for a particular interest, please suggest it! 
+  Rather than clicking on IMDB links for movie searches, DuckDuckGo users created the IMDB instant answer so now [movie searches](https://duckduckgo.com/?q=the+dark+knight+movie) automatically display IMDB information.
 
 - **Discuss instant answers with others**  
-  Our community thrives on discussion (and debate). We'd love for you to lend your voice to our community so that we can improve DuckDuckGo according to everyone's interests. 
+  Our community thrives on discussion (and debate). We'd love for you to lend your voice to our community so that we can improve DuckDuckGo according to everyone's interests.
 
-#### Coders can...
-- **Develop instant answers**  
-  Continue reading below for our developers guide to creating an instant answer
+- **Propose source suggestions**  
+  Everyone has a favorite source for information. Our users decided that Last.fm was a great source for music so they suggested it be used for [album searches](Dookie album by greenday)! 
 
-- **Improve current instant answers**  
-  Help fix current issues or discuss with the community how to make our instant answers better. 
+**To get involved with the DuckDuckGo community, head over to our [community platform](https://dukgo.com/)!**
+
+#### **Develop (or improve) instant answers**  
+  If you're a developer and you want to create your own instant answer, check out our developer's guide to creating an instant answer. You can also help fix current issues or discuss with the community how to make our instant answers better. 
 
 ## Next Steps
 
