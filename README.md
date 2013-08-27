@@ -14,7 +14,7 @@ Whether you can code or not, there are many ways you can contribute to DuckDuckG
 
 ### Join our Community (of awesome people)
 - **Suggest ideas for instant answers**  
-  Rather than clicking on IMDB links for movie searches, DuckDuckGo users created the IMDB instant answer so now [movie searches](https://duckduckgo.com/?q=the+dark+knight+movie) automatically display IMDB information.
+  Rather than clicking on Rotten Tomatoes links for movie searches, DuckDuckGo users created the Rotten Tomatoes instant answer so now [movie searches](https://duckduckgo.com/?q=the+dark+knight+movie) automatically display information from Rotten Tomatoes.
 
 - **Discuss instant answers with others**  
   Our community thrives on discussion (and debate). We'd love for you to lend your voice to our community so that we can improve DuckDuckGo according to everyone's interests.
