@@ -27,12 +27,7 @@ Whether you can code or not, there are many ways you can contribute to DuckDuckG
 **To get involved with the DuckDuckGo community, head over to our [community platform](https://dukgo.com/)!**
 
 #### **Develop (or improve) instant answers**  
-  If you're a developer and you want to create your own instant answer, check out our developer's guide to creating an instant answer. You can also help fix current issues or discuss with the community how to make our instant answers better. 
-
-## Next Steps
-
- - To start developing an instant answer, please read the **[DuckDuckHack Vision](documentation/duckduckhack_vision.md)**
- - Or, to submit/discuss ideas and get involved with the community please visit our **[community website](https://duck.co)** and our **[ideas companion site](http://ideas.duckduckhack.com/)**
+  If you're a developer and you want to create your own instant answer, or if you'd like to help fix current issues please read the **[DuckDuckHack Vision](documentation/duckduckhack_vision.md)** to get started!
 
 ## DuckDuckHack Documentation Index
 
