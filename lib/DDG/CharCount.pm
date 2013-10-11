@@ -3,7 +3,7 @@ package DDG::Goodie::Chars;
 use DDG::Goodie;
 triggers start => 'chars';
 handle remainder => sub {
-    return 'Chars: ' . length $_ if $_;
+    return 'Chars in sentence: ' . length $_ if $_;
     return;
 };
 zci is_cached => 1;
